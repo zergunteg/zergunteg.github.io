@@ -5,6 +5,7 @@ body{
 h1{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
+	color: #F77A33;
 	
 }
 
@@ -19,7 +20,9 @@ p{
 
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
 
 }
 .step{
@@ -27,14 +30,17 @@ p{
 }
 
 .padding{
-	padding-top: 100px;
+	padding-top: 60px;
 }
 
 .bgfix{
 	background-attachment: fixed;
 	background-image: url(../img/bg.jpg);
 	background-size: cover;
-	margin-top: 100px;
+	height: 800px;
+	display: table;
+	width: 100%;
+	text-align: center;
 }
 
 .preview{
@@ -46,4 +52,25 @@ p{
 
 .bottom{
 	margin-bottom: 100px;
+}
+
+.white{
+	color:#fff;
+}
+
+.center {
+	display: table-cell;
+	vertical-align: middle;
+
+}
+
+.logo {
+	background-image: url(../img/logo.png);
+	width:384px; 
+	height:78px;
+	margin: 0 auto;
+}
+
+.margin {
+	margin-top: 50px;
 }
