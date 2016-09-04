@@ -306,6 +306,9 @@
   top:482px;
   width:232px;
   height:46px;
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
   font-size:21px;
   color:rgba(255, 255, 255, 0.43921568627451);
 }
@@ -562,6 +565,9 @@
   top:6px;
   width:129px;
   height:33px;
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
   font-size:18px;
   color:#FFFFFF;
 }

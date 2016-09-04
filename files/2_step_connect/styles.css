@@ -1285,6 +1285,9 @@
   top:6px;
   width:129px;
   height:33px;
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
   font-size:18px;
   color:#FFFFFF;
 }
