@@ -1,3 +1,0 @@
-<video autoplay loop>
-	<source src="preview.mov">
-</video>

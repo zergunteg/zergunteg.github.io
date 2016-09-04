@@ -9,11 +9,17 @@
 }
 .box_1 {
 }
-.ellipse {
-}
 .image {
 }
 .button {
+}
+.primary_button {
+  font-family:'Roboto-Bold', 'Roboto Bold', 'Roboto';
+  font-size:16px;
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_1 {
   font-family:'ArialMT', 'Arial';
@@ -63,10 +69,11 @@
   color:#000000;
   text-align:left;
 }
-.droplist {
-  color:#000000;
-  text-align:left;
-}
 .checkbox {
   text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.flow_shape {
 }
